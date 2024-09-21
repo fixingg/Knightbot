@@ -1,7 +1,7 @@
 # 🤖 Knight Bot
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" /> </a> </div> <div align="center"> <a href="https://youtube.com/"> <img src="https://github.com/vaibhavk10/WhatsApp-Bot/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> </a> </div>
+<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" /> </a> </div> <div align="center"> <a href="https://youtube.com/"> <img src="https://github.com/mruniquehacker/Knightbot/blob/master/assets/bot_image.jpg" alt="Knight Bot" height="300"> </a> </div>
 
 
 ## ⚙️ Features
@@ -28,7 +28,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 You can easily deploy this WhatsApp bot on Replit with one click. Replit will automatically install the necessary dependencies and give you a web environment to run the bot.
 
-[![Run on Replit](https://replit.com/badge/github/vaibhavk10/WhatsApp-Bot)](https://replit.com/github/vaibhavk10/WhatsApp-Bot)
+[![Run on Replit](https://replit.com/badge/github/mruniquehacker/Knightbot)](https://replit.com/github/mruniquehacker/Knightbot)
 
 ---
 
@@ -44,8 +44,8 @@ You can easily deploy this WhatsApp bot on Replit with one click. Replit will au
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/vaibhavk10/WhatsApp-Bot.git
-    cd WhatsApp-Bot
+    git clone https://github.com/mruniquehacker/Knightbot.git
+    cd Knightbot
     ```
 
 2. **Install the dependencies:**
@@ -105,17 +105,16 @@ You can easily deploy this WhatsApp bot on Replit with one click. Replit will au
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/vaibhavk10/WhatsApp-Bot/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/vaibhavk10/WhatsApp-Bot/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/vaibhavk10/WhatsApp-Bot)!
-ś
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
