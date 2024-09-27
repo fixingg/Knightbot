@@ -1,8 +1,58 @@
 # 🤖 Knight Bot
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
-<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" /> </a> </div> <div align="center"> <a href="https://youtube.com/"> <img src="https://github.com/mruniquehacker/Knightbot/blob/master/assets/bot_image.jpg" alt="Knight Bot" height="300"> </a> </div>
 
+<div align="center"> 
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+  </a> 
+</div> 
+
+<div align="center"> 
+  <a href="https://youtube.com/"> 
+    <img src="https://github.com/mruniquehacker/Knightbot/blob/master/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+  </a> 
+</div>
+
+---
+
+## 🚀 Steps to Deploy
+
+### Step 1: Fork the Repository
+
+Click the button below to fork the Knight Bot repository to your GitHub account:
+
+<div align="center">
+  <a href="https://github.com/mruniquehacker/Knightbot/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  </a>
+</div>
+
+---
+
+### Step 2: Scan QR Code
+
+Deploy the bot and easily connect it to your WhatsApp account by scanning the QR code. Click the button below to deploy the bot on Replit.
+
+<div align="center">
+  <a href="https://replit.com/github/mruniquehacker/Knightbot">
+    <img src="https://img.shields.io/badge/Scan%20QR%20Code-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
+  </a>
+</div>
+
+---
+
+### Step 3: Deploy Now
+
+For further customization and setup guidance, click the button below:
+
+<div align="center">
+  <a href="https://youtube.com/@mr_unique_hacker">
+    <img src="https://img.shields.io/badge/Deploy-Youtube-red?style=for-the-badge" alt="YouTube Link"/>
+  </a>
+</div>
+
+---
 
 ## ⚙️ Features
 
@@ -21,14 +71,6 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
 It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
-
----
-
-## One-click Deployment on Replit
-
-You can easily deploy this WhatsApp bot on Replit with one click. Replit will automatically install the necessary dependencies and give you a web environment to run the bot.
-
-[![Run on Replit](https://replit.com/badge/github/mruniquehacker/Knightbot)](https://replit.com/github/mruniquehacker/Knightbot)
 
 ---
 
